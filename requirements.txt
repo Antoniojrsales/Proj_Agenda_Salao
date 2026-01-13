@@ -1,0 +1,4 @@
+dash==3.3.0
+pandas==2.3.3
+dash_bootstrap_components==2.0.4
+dash_table==5.0.0
