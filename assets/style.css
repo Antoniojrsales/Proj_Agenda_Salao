@@ -161,8 +161,7 @@ html {
   }
   #descricao-input::placeholder{
     color: #303030 !important;
-  }
-  
+  }  
   
   #submit-tarefa:hover{
     background-color: #707070 !important;
